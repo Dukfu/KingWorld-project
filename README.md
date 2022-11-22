@@ -8,8 +8,11 @@
  Unity를 통한 2D 횡스크롤 형식의 액션 게임으로 제작한다.
  ###### It is produced as a 2D lateral scroll type action game through Unity.
 *****
+
 ## 3. 개발 목표 Development Objectives
+
 ### 3.1.필드 부문 Field
+
 >### 3.1.0. 신사 Shirine
 > ```
 > 필드를 잇는 로비 역할
