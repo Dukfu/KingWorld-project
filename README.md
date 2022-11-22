@@ -11,14 +11,37 @@
 ## 3. 개발 목표 Development Objectives
 ### 3.1.필드 부문 Field
 >### 3.1.0 신사 Shirine
->> * 필드를 잇는 로비 역할
->> * 세전함을 통해 기초 업그레이드
->> * 세이브 기능
+> ```
+> 필드를 잇는 로비 역할
+> 세전함을 통해 기초 업그레이드
+> 세이브 기능
+> ```
+> ```
+> The role of lobby connecting fields
+> Basic Upgrade with Sejeon Box
+> Save Function
+> ```
 >### 3.1.1 목초지 plane
->> 튜토리얼 지역 느낌
+> ```
+> 튜토리얼 지역 느낌
+> ```
 >### 3.1.2 숲 Forest
->> 
+> ```
+>
+> ```
 >### 3.1.3 바다가 보이는 도시 a City with an Ocean view
+> ```
+>
+> ```
 >### 3.1.4 악마성 Demon Castle
+> ```
+>
+> ```
 >### 3.1.5 무너진 악마성 The Fallen Demon Castle
+> ```
+>
+> ```
 >### 3.1.ex 지하기지 Underground Base
+> ```
+>
+> ```
