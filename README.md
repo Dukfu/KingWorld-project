@@ -12,14 +12,14 @@
 ### 3.1.필드 부문 Field
 >### 3.1.0 신사 Shirine
 > ```
-> 필드를 잇는 로비 역할
-> 세전함을 통해 기초 업그레이드
-> 세이브 기능
+> * 필드를 잇는 로비 역할
+> * 세전함을 통해 기초 업그레이드
+> * 세이브 기능
 > ```
 > ```
-> The role of lobby connecting fields
-> Basic Upgrade with Sejeon Box
-> Save Function
+> * The role of lobby connecting fields
+> * Basic Upgrade with Sejeon Box
+> * Save Function
 > ```
 >### 3.1.1 목초지 plane
 > ```
