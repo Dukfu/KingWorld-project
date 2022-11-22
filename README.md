@@ -96,7 +96,6 @@
 >* 유즈키 초코 Yuzuki Choco
 >* 요조라 멜 Yozora Mel
 >* 무라사키 시온 Murasaki Shion
-### 3.1.5. 무너진 악마성 The Fallen Demon Castle
 ### 3.1.ex. 지하기지 Underground Base
 >* 라플라스 다크니스 La+ Darkness
 >* 타카네 루이 Takane Lui
