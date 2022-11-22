@@ -5,8 +5,8 @@
 ###### This document is about the development of the personal second creative game "King's World," which is based on the theme song "KINGWORLD" of Holive's Shirakami Fubuki (hereinafter referred to as "Fubuki").
 *****
 ## 2. 제작 방식 How to make
- Unity를 통한 2D 횡스크롤 형식의 게임으로 제작한다.
- ###### It is produced as a 2D lateral scroll type game through Unity.
+ Unity를 통한 2D 횡스크롤 형식의 액션 게임으로 제작한다.
+ ###### It is produced as a 2D lateral scroll type action game through Unity.
 *****
 ## 3. 개발 목표 Development Objectives
 ### 3.1.필드 부문 Field
@@ -17,36 +17,55 @@
 > 세이브 기능
 > ```
 > ```
-> The role of lobby connecting fields
-> Basic Upgrade with Sejeon Box
-> Save Function
+> the role of lobby connecting fields
+> basic upgrade with sejeon Box
+> save function
 > ```
 >### 3.1.1. 목초지 Pasture
+> * 보스 : 츠노마키 와타메 Tsunomaki Watame
 > ```
 > 튜토리얼 지역 느낌
 > ```
 > ```
-> Tutorial
+> tutorial area
 > ```
 >### 3.1.2. 숲 Forest
+> * 보스 : 나키리 아야메 Nakiri Ayame
 > ```
->
+> 
 > ```
 >### 3.1.3. 바다가 보이는 도시 a City with an Ocean view
+> * 보스 : 호시마치 스이세이 & 토키노 소라 Hoshimachi Suisei & Tokino Sora
 > ```
->
+> 
 > ```
 >### 3.1.4. 악마성 Demon Castle
+> * 보스 : 토코야미 토와 Tokoyami Towa
 > ```
->
+> 플렛폼 지역
+> 기믹이 많음
+> ```
+> ```
+> platform area
+> there are many trap
 > ```
 >### 3.1.5. 무너진 악마성 The Fallen Demon Castle
+> * 보스 : 쿠로 Kuro
 > ```
->
+> 변형된 악마성
+> NPC가 없고 보스만 존재
+> ```
+> ```
+> a transformed Demon castle
+> there's no NPC, only the boss exists
 > ```
 >### 3.1.ex. 지하기지 Underground Base
+> * 보스 : Y-
 > ```
->
+> 번외 지역
+> ```
+> ```
+> an extra area
 > ```
 ### 3.2. 지역별 NPC 배치 NPC Deployment
 >### 3.2.0. 신사 Shirine
