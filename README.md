@@ -15,8 +15,7 @@
 > 필드를 잇는 로비 역할
 > 세전함을 통해 기초 업그레이드
 > 세이브 기능
-> ```
-> ```
+>
 > the role of lobby connecting fields
 > basic upgrade with sejeon Box
 > save function
@@ -25,27 +24,29 @@
 > * 보스 : 츠노마키 와타메 Tsunomaki Watame
 > ```
 > 튜토리얼 지역 느낌
-> ```
-> ```
+>
 > tutorial area
 > ```
 >### 3.1.2. 숲 Forest
 > * 보스 : 나키리 아야메 Nakiri Ayame
 > ```
 > 
+>
+>
 > ```
 >### 3.1.3. 바다가 보이는 도시 a City with an Ocean view
 > * 보스 : 호시마치 스이세이 & 토키노 소라 Hoshimachi Suisei & Tokino Sora
 > ```
 > 
+>
+>
 > ```
 >### 3.1.4. 악마성 Demon Castle
 > * 보스 : 토코야미 토와 Tokoyami Towa
 > ```
 > 플렛폼 지역
 > 기믹이 많음
-> ```
-> ```
+>
 > platform area
 > there are many trap
 > ```
@@ -54,8 +55,7 @@
 > ```
 > 변형된 악마성
 > NPC가 없고 보스만 존재
-> ```
-> ```
+>
 > a transformed Demon castle
 > there's no NPC, only the boss exists
 > ```
@@ -63,8 +63,7 @@
 > * 보스 : Y-
 > ```
 > 번외 지역
-> ```
-> ```
+>
 > an extra area
 > ```
 ### 3.2. 지역별 NPC 배치 NPC Deployment
@@ -96,7 +95,7 @@
 >* 유즈키 초코 Yuzuki Choco
 >* 요조라 멜 Yozora Mel
 >* 무라사키 시온 Murasaki Shion
-### 3.1.ex. 지하기지 Underground Base
+### 3.2.ex. 지하기지 Underground Base
 >* 라플라스 다크니스 La+ Darkness
 >* 타카네 루이 Takane Lui
 >* 하쿠이 코요리 Hakui Koyori
