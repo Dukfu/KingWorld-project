@@ -21,28 +21,28 @@
 > save function
 > ```
 >### 3.1.1. 목초지 Pasture
-> * 보스 : 츠노마키 와타메 Tsunomaki Watame
+> * 보스 Boss : 츠노마키 와타메 Tsunomaki Watame
 > ```
 > 튜토리얼 지역 느낌
 >
 > tutorial area
 > ```
 >### 3.1.2. 숲 Forest
-> * 보스 : 나키리 아야메 Nakiri Ayame
+> * 보스 Boss : 나키리 아야메 Nakiri Ayame
 > ```
 > 
 >
 >
 > ```
 >### 3.1.3. 바다가 보이는 도시 a City with an Ocean view
-> * 보스 : 호시마치 스이세이 & 토키노 소라 Hoshimachi Suisei & Tokino Sora
+> * 보스 Boss : 호시마치 스이세이 & 토키노 소라 Hoshimachi Suisei & Tokino Sora
 > ```
 > 
 >
 >
 > ```
 >### 3.1.4. 악마성 Demon Castle
-> * 보스 : 토코야미 토와 Tokoyami Towa
+> * 보스 Boss : 토코야미 토와 Tokoyami Towa
 > ```
 > 플렛폼 지역
 > 기믹이 많음
@@ -51,7 +51,7 @@
 > there are many trap
 > ```
 >### 3.1.5. 무너진 악마성 The Fallen Demon Castle
-> * 보스 : 쿠로 Kuro
+> * 보스 Boss : 쿠로 Kuro
 > ```
 > 변형된 악마성
 > NPC가 없고 보스만 존재
@@ -60,7 +60,7 @@
 > there's no NPC, only the boss exists
 > ```
 >### 3.1.ex. 지하기지 Underground Base
-> * 보스 : Y-
+> * 보스 Boss : 5961676f6f
 > ```
 > 번외 지역
 >
